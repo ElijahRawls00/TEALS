@@ -1,5 +1,5 @@
 # TEALS (Level 1 Heading)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ElijahRawls00/TEALS/HEAD)
 *This is text under level 1.* This is for the **introduction to Sortware Technolgy** class at [Towere High School](https://www.towershs.dekalb.k12.ga.us/) 
 ![An image of Towers High and Dekalb County Logos](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png).(https://www.towershs.dekalb.k12.ga.us/)
 
